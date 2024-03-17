@@ -7,6 +7,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
 //        System.out.prinln("https://github.com/s29829/pgo-tutorials-01.git");
+
         Scanner wejscie = new Scanner(System.in);
         System.out.print("Set up number: ");
         int danaLoc = wejscie.nextInt();
